@@ -1,0 +1,5 @@
+version: "1"
+domain: sigma.alipay.com
+repo: gitlab.alipay-inc.com/antcloud-devops/cafeautoscaler
+repogroup: sigma
+reponame: hpa-controller
